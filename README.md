@@ -3,9 +3,9 @@
 
 ## Task 7.1: Cytron Cleaner
 This task aims to enhance the cleaning efficiency and waste collection capabilities of the Autonomous Planet Cleaner (APC) machine using DC brushed suction system. 
-### requirement:
+### Requirements:
 - Control this DC Brushed Motor using Cytron (which is a DC brushed motor driver) with Arduino.
-- Implement a software soft start filter using Exponential smoothing Filter
+- Implement a software soft start filter using Exponential smoothing Filter.
 ##### Q: Does this motor suitable for this application?
 Yes, according to the following reasons:
 1. DC motors are appropriate for applications requiring significant force, such as lifting and moving rubbish bins or compactors, because they can provide large torque at low speeds.
