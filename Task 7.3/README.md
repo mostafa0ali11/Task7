@@ -1,2 +1,0 @@
-# Kinematic Model Derivation
----
