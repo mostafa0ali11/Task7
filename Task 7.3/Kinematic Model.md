@@ -6,6 +6,8 @@ First, we need to resolve the velocity of the three omnidirectional wheels in th
 - `Omega` : Direction of motion between Wheel 1 and positive X-axis.
 - `Theta` : Angle between a wheel and the consecuetive wheel is equal 120 degree.
 - `Radius` : Distance between center of robot and the wheels is equal 20 cm.
+  
+![Test Image](test.png)
 
 `V1`
 
